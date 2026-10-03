@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Paulosifo
 - 👀 I’m interested in computers
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 
+- 📫 How to reach me 09039794853
+- 😄 Pronouns: He
+-
 
 <!---
 Paulosifo/Paulosifo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
